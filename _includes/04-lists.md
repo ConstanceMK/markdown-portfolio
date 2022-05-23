@@ -1,0 +1,5 @@
+- Singing! I am always singing or humming or at least have an earworm 💙
+- Petting my cat
+- Reading
+- Giving my friends hugs
+- The feeling just after I've figured out a tricky concept
