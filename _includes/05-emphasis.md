@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+- I speak a second language, *German*, in addition to my first language **English**
+- I am proficient in *MS SQL*
+- I am a **kettle** developer, working primarily in the Pentaho Data Integration GUI **Spoon**
